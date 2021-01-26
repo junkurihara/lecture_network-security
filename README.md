@@ -1,4 +1,4 @@
-# Security Engineering
+# Network Security
 
 Lecture slides and some program sources of a lecture ``Network Security'' at University of Hyogo
 
